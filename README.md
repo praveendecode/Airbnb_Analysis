@@ -28,7 +28,7 @@
 4. Access the app in your browser :
      http://localhost:8501
 
-4. Visit Tableau Dashbord [Visit](https://public.tableau.com/views/airbnb_16981379902390/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+4. Visit Tableau Dashbord  : [Visit Dashboard](https://public.tableau.com/views/airbnb_16981379902390/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Methods
