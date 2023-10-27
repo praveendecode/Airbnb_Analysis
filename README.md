@@ -13,6 +13,7 @@
 - ETL (Extract, Transform, Load): Converted data from MongoDB to structured DataFrames.
 - Exploratory Data Analysis (EDA): Performed in-depth analysis and visualization of Airbnb data.
 - Interactive Streamlit UI: Developed a user-friendly interface for data exploration and presentation.
+- Tableau Dashboard : Interactive eye-catching dashboard with awesome filter
 
 ## Getting Started
 1. Clone the repository:
@@ -26,6 +27,8 @@
 
 4. Access the app in your browser :
      http://localhost:8501
+
+4. Visit Tableau Dashbord [Visit](https://public.tableau.com/views/airbnb_16981379902390/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ## Methods
@@ -42,6 +45,9 @@
 - Exploratory Data Analysis (EDA).
 - Data visualization.
 - Web application development with Streamlit.
+- Tableau Public
+
+
 
 ## Results
 - The project provides a user-friendly interface for exploring Airbnb data.
