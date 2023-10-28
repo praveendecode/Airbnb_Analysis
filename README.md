@@ -18,16 +18,20 @@
 # Getting Started
 
 1. Clone the repository:
-     https://github.com/praveendecode/Airbnb_Analysis
+   
+         https://github.com/praveendecode/Airbnb_Analysis
 
-2. Install required packages:
-     pip install -r requirements.txt
+3. Install required packages:
+   
+        pip install -r requirements.txt
 
-3. Run the Streamlit app:
-     streamlit run app.py
+5. Run the Streamlit app:
 
-4. Access the app in your browser :
-     http://localhost:8501
+       streamlit run app.py
+
+7. Access the app in your browser :
+
+       http://localhost:8501
 
 4. Visit Tableau Dashbord  : [Visit Dashboard](https://public.tableau.com/views/airbnb_16981379902390/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
