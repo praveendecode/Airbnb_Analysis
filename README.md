@@ -54,6 +54,6 @@
 - Insights and trends in the Airbnb market are presented through interactive charts and visualizations.
 - Data is cleaned, organized, and ready for further analysis.
 
-# Connect Through Linkedin For Queries
+# Connect Through LinkedIn For Queries
 
 
