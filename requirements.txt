@@ -1,0 +1,7 @@
+streamlit
+streamlit-extras
+streamlit-lottie
+streamlit-option-menu
+plotly-express
+pymongo
+pandas
