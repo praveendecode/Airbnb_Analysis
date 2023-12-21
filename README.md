@@ -10,7 +10,7 @@
 
 # Features
 - Data Collection: Gathered Airbnb data from various sources, including MongoDB.
-- Data Preprocessing: Cleaned and prepared the data for analysis.
+- Data Preprocessing: Cleaned and prepared the data for analysis. 
 - ETL (Extract, Transform, Load): Converted data from MongoDB to structured DataFrames.
 - Exploratory Data Analysis (EDA): Performed in-depth analysis and visualization of Airbnb data.
 - Interactive Streamlit UI: Developed a user-friendly interface for data exploration and presentation.
