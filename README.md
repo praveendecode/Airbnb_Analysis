@@ -1,6 +1,6 @@
 # Airbnb Data Analysis and Visualization
 
-  ![image](https://github.com/praveendecode/Airbnb_Analysis/assets/95226524/eacce5cd-057f-42ed-a95e-fd39d3912095)
+  ![image](https://github.com/praveendecode/Airbnb_Analysis/assets/95226524/fdfd6a37-e3b5-4407-a5ce-1a028cbf7186)
 
 
 
